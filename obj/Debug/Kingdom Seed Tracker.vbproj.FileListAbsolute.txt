@@ -1,1 +1,0 @@
-\\DATACENTER\src\KST\Kingdom Seed Tracker\bin\Debug\Kingdom Seed Tracker.exe.config
